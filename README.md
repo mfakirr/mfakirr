@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mfakirr
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning unity with c#
-- 💞️ I’m looking to collaborate on Kodluyoruz
 - 📫 How to reach me muhammetfakir@gmail.com
 
 <!---
