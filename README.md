@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development
 - 🌱 I love to develop games with unity and C#
 - 👋 I'm currently work at Halkbank as a Back-End Developer
-- 📫 How to reach me muhammetfakir@gmail.co
+- 📫 How to reach me muhammetfakir@gmail.com
 
 !!!!!!!My github page is not updated because I couldn't pot here after I started professional projects.!!!!!!!!
 
