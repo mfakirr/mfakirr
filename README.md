@@ -4,7 +4,7 @@
 - 👋 I'm currently work in Halkbank as a Back-End Developer
 - 📫 How to reach me muhammetfakir@gmail.com
 
-!!!!!!!My github page is not updated because I couldn't pot here after I started professional projects.!!!!!!!!
+!!!!!!!My github page is not updated because I couldn't upload my project here after I started professional projects.!!!!!!!!
 
 <!---
 mfakirr/mfakirr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
