@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mfakirr
-- 👀 I’m interested in game development
+- 👀 I’m interested in software development.
 - 🌱 I love to develop games with unity and C#
 - 👋 I'm currently work in Halkbank as a Back-End Developer
 - 📫 How to reach me muhammetfakir@gmail.com
